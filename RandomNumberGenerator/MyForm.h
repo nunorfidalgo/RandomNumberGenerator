@@ -189,7 +189,7 @@ namespace RandomNumberGenerator {
 			this->Controls->Add(this->label2);
 			this->Controls->Add(this->label1);
 			this->Name = L"MyForm";
-			this->Text = L"Number Generator";
+			this->Text = L"Random Number Generator";
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox1))->EndInit();
 			this->ResumeLayout(false);
 			this->PerformLayout();
